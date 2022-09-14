@@ -19,7 +19,7 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
-``
+```
 Program developed by: GOPARAPU LUTHEESH
 Register number: 212221230029
 
@@ -64,7 +64,7 @@ df1.isnull().sum()
 
 #Checking info of the dataset to check all the columns have entries
 df1.info()
-``
+```
 # OUPUT:
 ![IMG-001](https://user-images.githubusercontent.com/94154531/190100942-9e98c34d-4be8-4013-bdde-271b315b8cda.png)
 # HEAD:
